@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @G6LAW aka Giovani Imperatrice.
+- 👋 Hi, I’m Giovani Imperatrice aka @G6LAW.
 - 👀 I’m interested in studying programming languages and sonology/music stuff.
 - 🌱 I’m currently learning HTML, CSS, JS and Node for life management; Max/MSP and C++ for audio pluggins. 
-- 💞️ I’m looking to understand this comunity for now. 
+- 💞️ I’m looking to understand this community for now. 
 - 📫 How to reach me: by instagram @giovani_imperatrice.
 
 <!---
